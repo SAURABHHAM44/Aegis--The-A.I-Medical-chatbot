@@ -42,7 +42,7 @@ def load_llm(huggingface_repo_id, HF_TOKEN):
 
 
 def main():
-    st.title("Hii saniya")
+    st.title(" Ask Aegis -Your AI Health Companion ")
 
     if 'messages' not in st.session_state:
         st.session_state.messages = []
