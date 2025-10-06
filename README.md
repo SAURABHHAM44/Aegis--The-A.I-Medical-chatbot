@@ -2,6 +2,10 @@
 
 This project is a medical Q&A chatbot named **Aegis**, built using LangChain, Hugging Face, and Groq. It's designed to answer questions based on a provided set of PDF documents. The chatbot uses a Retrieval-Augmented Generation (RAG) architecture to find relevant information in the documents before generating a response.
 
+## 🌐 Live Demo
+
+**Try Aegis now:** [https://aegis--the-ai-medical-chatbot-l2mrvkzmomehccz2hvssv8.streamlit.app/](https://aegis--the-ai-medical-chatbot-l2mrvkzmomehccz2hvssv8.streamlit.app/)
+
 ## ✨ Features
 
 -   **Retrieval-Augmented Generation (RAG):** Aegis retrieves information from a knowledge base (PDFs) to provide accurate answers.
@@ -28,5 +32,5 @@ This project is a medical Q&A chatbot named **Aegis**, built using LangChain, Hu
 ### Step 1: Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+git clone https://github.com/your-username/your-repository-name.git
 cd your-repository-name
